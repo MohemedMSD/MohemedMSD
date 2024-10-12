@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Messoud</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-- 🌱 I’m currently learning **NextJS, Laravel, React-Redux**
-
-- 📫 How to reach me **msdmohame20@gmail.com**
+- 📫 How to reach me **messoud.mohamed01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
